@@ -43,6 +43,8 @@ Developer
 
 **Romina Pizzuti**  
 pizzutiromina@gmail.com  
+www.linkedin.com/mwlite/in/romina-belen-pizzuti-19108292  
+Profesora  
 Cloud Architect  
 
 **Mercedes Vera Sotelo**  
