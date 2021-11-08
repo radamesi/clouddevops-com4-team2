@@ -105,7 +105,7 @@
 - [ ] Blanco, Eimy
 - [X] Cartalá, Paola
 - [ ] Ibañez, Radamés
-- [ ] Metz, Miguel
+- [X] Metz, Miguel
 - [ ] Pizzuti, Romina
 - [ ] Vera Sotelo, Mercedes
 
@@ -116,7 +116,7 @@
 - [ ] Blanco, Eimy
 - [X] Cartalá, Paola
 - [ ] Ibañez, Radamés
-- [ ] Metz, Miguel
+- [X] Metz, Miguel
 - [ ] Pizzuti, Romina
 - [ ] Vera Sotelo, Mercedes
 
@@ -127,6 +127,6 @@
 - [ ] Blanco, Eimy
 - [ ] Cartalá, Paola
 - [ ] Ibañez, Radamés
-- [ ] Metz, Miguel
+- [X] Metz, Miguel
 - [ ] Pizzuti, Romina
 - [ ] Vera Sotelo, Mercedes
