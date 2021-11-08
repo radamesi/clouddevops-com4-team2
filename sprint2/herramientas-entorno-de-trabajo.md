@@ -7,7 +7,7 @@
 - [ ] Blanco, Eimy
 - [X] Cartalá, Paola
 - [ ] Ibañez, Radamés
-- [ ] Metz, Miguel
+- [X] Metz, Miguel
 - [X] Pizzuti, Romina
 - [X] Vera Sotelo, Mercedes
 
@@ -18,7 +18,7 @@
 - [ ] Blanco, Eimy
 - [ ] Cartalá, Paola
 - [ ] Ibañez, Radamés
-- [ ] Metz, Miguel
+- [X] Metz, Miguel
 - [ ] Pizzuti, Romina
 - [X] Vera Sotelo, Mercedes
 
@@ -29,7 +29,7 @@
 - [ ] Blanco, Eimy
 - [X] Cartalá, Paola
 - [ ] Ibañez, Radamés
-- [ ] Metz, Miguel
+- [X] Metz, Miguel
 - [X] Pizzuti, Romina
 - [X] Vera Sotelo, Mercedes
 
@@ -49,7 +49,7 @@
 - [ ] Blanco, Eimy
 - [ ] Cartalá, Paola
 - [ ] Ibañez, Radamés
-- [ ] Metz, Miguel
+- [X] Metz, Miguel
 - [X] Pizzuti, Romina
 - [X] Vera Sotelo, Mercedes
 
@@ -68,7 +68,7 @@
 - [ ] Blanco, Eimy
 - [ ] Cartalá, Paola
 - [ ] Ibañez, Radamés
-- [ ] Metz, Miguel
+- [X] Metz, Miguel
 - [X] Pizzuti, Romina
 - [X] Vera Sotelo, Mercedes
 
@@ -83,7 +83,7 @@
 - [ ] Blanco, Eimy
 - [ ] Cartalá, Paola
 - [ ] Ibañez, Radamés
-- [ ] Metz, Miguel
+- [X] Metz, Miguel
 - [X] Pizzuti, Romina
 - [X] Vera Sotelo, Mercedes
 
@@ -94,7 +94,7 @@
 - [ ] Blanco, Eimy
 - [X] Cartalá, Paola
 - [ ] Ibañez, Radamés
-- [ ] Metz, Miguel
+- [X] Metz, Miguel
 - [X] Pizzuti, Romina
 - [X] Vera Sotelo, Mercedes
 
