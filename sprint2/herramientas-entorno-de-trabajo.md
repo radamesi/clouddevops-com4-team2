@@ -1,37 +1,37 @@
 # Herramientas - Preparación de entorno de trabajo
 
 ## Instalar Git en su última versión
-- [] Alfano, Nahuel
-- [] Amico, Federico
-- [] Bertocchi, Felipe
-- [] Blanco, Eimy
-- [] Cartalá, Paola
-- [] Ibañez, Radamés
-- [] Metz, Miguel
-- [] Pizzuti, Romina
-- [] Vera Sotelo, Mercedes
+- [ ] Alfano, Nahuel
+- [ ] Amico, Federico
+- [ ] Bertocchi, Felipe
+- [ ] Blanco, Eimy
+- [ ] Cartalá, Paola
+- [ ] Ibañez, Radamés
+- [ ] Metz, Miguel
+- [ ] Pizzuti, Romina
+- [ ] Vera Sotelo, Mercedes
 
 ## Creación de directorio para sincronizarlo con el directorio de Github
-- [] Alfano, Nahuel
-- [] Amico, Federico
-- [] Bertocchi, Felipe
-- [] Blanco, Eimy
-- [] Cartalá, Paola
-- [] Ibañez, Radamés
-- [] Metz, Miguel
-- [] Pizzuti, Romina
-- [] Vera Sotelo, Mercedes
+- [ ] Alfano, Nahuel
+- [ ] Amico, Federico
+- [ ] Bertocchi, Felipe
+- [ ] Blanco, Eimy
+- [ ] Cartalá, Paola
+- [ ] Ibañez, Radamés
+- [ ] Metz, Miguel
+- [ ] Pizzuti, Romina
+- [ ] Vera Sotelo, Mercedes
 
 ## Instalación de Visual Studio Code
-- [] Alfano, Nahuel
-- [] Amico, Federico
-- [] Bertocchi, Felipe
-- [] Blanco, Eimy
-- [] Cartalá, Paola
-- [] Ibañez, Radamés
-- [] Metz, Miguel
-- [] Pizzuti, Romina
-- [] Vera Sotelo, Mercedes
+- [ ] Alfano, Nahuel
+- [ ] Amico, Federico
+- [ ] Bertocchi, Felipe
+- [ ] Blanco, Eimy
+- [ ] Cartalá, Paola
+- [ ] Ibañez, Radamés
+- [ ] Metz, Miguel
+- [ ] Pizzuti, Romina
+- [ ] Vera Sotelo, Mercedes
 
 ## Instalación de plugins HTML/CSS/JS
 - HTML Snippets
@@ -43,15 +43,15 @@
 - JS Refactor :: JS CodeFormer
 - jshint
 
-- [] Alfano, Nahuel
-- [] Amico, Federico
-- [] Bertocchi, Felipe
-- [] Blanco, Eimy
-- [] Cartalá, Paola
-- [] Ibañez, Radamés
-- [] Metz, Miguel
-- [] Pizzuti, Romina
-- [] Vera Sotelo, Mercedes
+- [ ] Alfano, Nahuel
+- [ ] Amico, Federico
+- [ ] Bertocchi, Felipe
+- [ ] Blanco, Eimy
+- [ ] Cartalá, Paola
+- [ ] Ibañez, Radamés
+- [ ] Metz, Miguel
+- [ ] Pizzuti, Romina
+- [ ] Vera Sotelo, Mercedes
 
 ## Instalación de plugins Docker/Kubernetes
 - Docker
@@ -62,71 +62,71 @@
 - Azure Kubernetes Service
 - YAML
 
-- [] Alfano, Nahuel
-- [] Amico, Federico
-- [] Bertocchi, Felipe
-- [] Blanco, Eimy
-- [] Cartalá, Paola
-- [] Ibañez, Radamés
-- [] Metz, Miguel
-- [] Pizzuti, Romina
-- [] Vera Sotelo, Mercedes
+- [ ] Alfano, Nahuel
+- [ ] Amico, Federico
+- [ ] Bertocchi, Felipe
+- [ ] Blanco, Eimy
+- [ ] Cartalá, Paola
+- [ ] Ibañez, Radamés
+- [ ] Metz, Miguel
+- [ ] Pizzuti, Romina
+- [ ] Vera Sotelo, Mercedes
 
 ## Instalación de plugins Terraform
 - Terraform
 - HashiCorp Terraform
 - Terraform Advanced Syntax Highlighting
 
-- [] Alfano, Nahuel
-- [] Amico, Federico
-- [] Bertocchi, Felipe
-- [] Blanco, Eimy
-- [] Cartalá, Paola
-- [] Ibañez, Radamés
-- [] Metz, Miguel
-- [] Pizzuti, Romina
-- [] Vera Sotelo, Mercedes
+- [ ] Alfano, Nahuel
+- [ ] Amico, Federico
+- [ ] Bertocchi, Felipe
+- [ ] Blanco, Eimy
+- [ ] Cartalá, Paola
+- [ ] Ibañez, Radamés
+- [ ] Metz, Miguel
+- [ ] Pizzuti, Romina
+- [ ] Vera Sotelo, Mercedes
 
 ## Sincronización de VS Code con cuenta de GitHub
-- [] Alfano, Nahuel
-- [] Amico, Federico
-- [] Bertocchi, Felipe
-- [] Blanco, Eimy
-- [] Cartalá, Paola
-- [] Ibañez, Radamés
-- [] Metz, Miguel
-- [] Pizzuti, Romina
-- [] Vera Sotelo, Mercedes
+- [ ] Alfano, Nahuel
+- [ ] Amico, Federico
+- [ ] Bertocchi, Felipe
+- [ ] Blanco, Eimy
+- [ ] Cartalá, Paola
+- [ ] Ibañez, Radamés
+- [ ] Metz, Miguel
+- [ ] Pizzuti, Romina
+- [ ] Vera Sotelo, Mercedes
 
 ## Instalación de NodeJS
-- [] Alfano, Nahuel
-- [] Amico, Federico
-- [] Bertocchi, Felipe
-- [] Blanco, Eimy
-- [] Cartalá, Paola
-- [] Ibañez, Radamés
-- [] Metz, Miguel
-- [] Pizzuti, Romina
-- [] Vera Sotelo, Mercedes
+- [ ] Alfano, Nahuel
+- [ ] Amico, Federico
+- [ ] Bertocchi, Felipe
+- [ ] Blanco, Eimy
+- [ ] Cartalá, Paola
+- [ ] Ibañez, Radamés
+- [ ] Metz, Miguel
+- [ ] Pizzuti, Romina
+- [ ] Vera Sotelo, Mercedes
 
 ## Instalación de ReactJS
-- [] Alfano, Nahuel
-- [] Amico, Federico
-- [] Bertocchi, Felipe
-- [] Blanco, Eimy
-- [] Cartalá, Paola
-- [] Ibañez, Radamés
-- [] Metz, Miguel
-- [] Pizzuti, Romina
-- [] Vera Sotelo, Mercedes
+- [ ] Alfano, Nahuel
+- [ ] Amico, Federico
+- [ ] Bertocchi, Felipe
+- [ ] Blanco, Eimy
+- [ ] Cartalá, Paola
+- [ ] Ibañez, Radamés
+- [ ] Metz, Miguel
+- [ ] Pizzuti, Romina
+- [ ] Vera Sotelo, Mercedes
 
 ## Instalación de Express
-- [] Alfano, Nahuel
-- [] Amico, Federico
-- [] Bertocchi, Felipe
-- [] Blanco, Eimy
-- [] Cartalá, Paola
-- [] Ibañez, Radamés
-- [] Metz, Miguel
-- [] Pizzuti, Romina
-- [] Vera Sotelo, Mercedes
+- [ ] Alfano, Nahuel
+- [ ] Amico, Federico
+- [ ] Bertocchi, Felipe
+- [ ] Blanco, Eimy
+- [ ] Cartalá, Paola
+- [ ] Ibañez, Radamés
+- [ ] Metz, Miguel
+- [ ] Pizzuti, Romina
+- [ ] Vera Sotelo, Mercedes
