@@ -9,7 +9,7 @@
 - [ ] Ibañez, Radamés
 - [ ] Metz, Miguel
 - [ ] Pizzuti, Romina
-- [ ] Vera Sotelo, Mercedes
+- [X] Vera Sotelo, Mercedes
 
 ## Creación de directorio para sincronizarlo con el directorio de Github
 - [ ] Alfano, Nahuel
@@ -20,7 +20,7 @@
 - [ ] Ibañez, Radamés
 - [ ] Metz, Miguel
 - [ ] Pizzuti, Romina
-- [ ] Vera Sotelo, Mercedes
+- [X] Vera Sotelo, Mercedes
 
 ## Instalación de Visual Studio Code
 - [ ] Alfano, Nahuel
@@ -31,7 +31,7 @@
 - [ ] Ibañez, Radamés
 - [ ] Metz, Miguel
 - [ ] Pizzuti, Romina
-- [ ] Vera Sotelo, Mercedes
+- [X] Vera Sotelo, Mercedes
 
 ## Instalación de plugins HTML/CSS/JS
 - HTML Snippets
@@ -51,7 +51,7 @@
 - [ ] Ibañez, Radamés
 - [ ] Metz, Miguel
 - [ ] Pizzuti, Romina
-- [ ] Vera Sotelo, Mercedes
+- [X] Vera Sotelo, Mercedes
 
 ## Instalación de plugins Docker/Kubernetes
 - Docker
@@ -70,7 +70,7 @@
 - [ ] Ibañez, Radamés
 - [ ] Metz, Miguel
 - [ ] Pizzuti, Romina
-- [ ] Vera Sotelo, Mercedes
+- [X] Vera Sotelo, Mercedes
 
 ## Instalación de plugins Terraform
 - Terraform
@@ -85,7 +85,7 @@
 - [ ] Ibañez, Radamés
 - [ ] Metz, Miguel
 - [ ] Pizzuti, Romina
-- [ ] Vera Sotelo, Mercedes
+- [X] Vera Sotelo, Mercedes
 
 ## Sincronización de VS Code con cuenta de GitHub
 - [ ] Alfano, Nahuel
@@ -96,7 +96,7 @@
 - [ ] Ibañez, Radamés
 - [ ] Metz, Miguel
 - [ ] Pizzuti, Romina
-- [ ] Vera Sotelo, Mercedes
+- [X] Vera Sotelo, Mercedes
 
 ## Instalación de NodeJS
 - [ ] Alfano, Nahuel
