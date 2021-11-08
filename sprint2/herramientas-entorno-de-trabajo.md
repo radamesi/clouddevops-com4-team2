@@ -8,7 +8,7 @@
 - [ ] Cartalá, Paola
 - [ ] Ibañez, Radamés
 - [ ] Metz, Miguel
-- [ ] Pizzuti, Romina
+- [X] Pizzuti, Romina
 - [X] Vera Sotelo, Mercedes
 
 ## Creación de directorio para sincronizarlo con el directorio de Github
@@ -30,7 +30,7 @@
 - [ ] Cartalá, Paola
 - [ ] Ibañez, Radamés
 - [ ] Metz, Miguel
-- [ ] Pizzuti, Romina
+- [X] Pizzuti, Romina
 - [X] Vera Sotelo, Mercedes
 
 ## Instalación de plugins HTML/CSS/JS
@@ -50,7 +50,7 @@
 - [ ] Cartalá, Paola
 - [ ] Ibañez, Radamés
 - [ ] Metz, Miguel
-- [ ] Pizzuti, Romina
+- [X] Pizzuti, Romina
 - [X] Vera Sotelo, Mercedes
 
 ## Instalación de plugins Docker/Kubernetes
@@ -69,7 +69,7 @@
 - [ ] Cartalá, Paola
 - [ ] Ibañez, Radamés
 - [ ] Metz, Miguel
-- [ ] Pizzuti, Romina
+- [X] Pizzuti, Romina
 - [X] Vera Sotelo, Mercedes
 
 ## Instalación de plugins Terraform
@@ -84,7 +84,7 @@
 - [ ] Cartalá, Paola
 - [ ] Ibañez, Radamés
 - [ ] Metz, Miguel
-- [ ] Pizzuti, Romina
+- [X] Pizzuti, Romina
 - [X] Vera Sotelo, Mercedes
 
 ## Sincronización de VS Code con cuenta de GitHub
@@ -95,7 +95,7 @@
 - [ ] Cartalá, Paola
 - [ ] Ibañez, Radamés
 - [ ] Metz, Miguel
-- [ ] Pizzuti, Romina
+- [X] Pizzuti, Romina
 - [X] Vera Sotelo, Mercedes
 
 ## Instalación de NodeJS
