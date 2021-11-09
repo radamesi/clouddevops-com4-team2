@@ -3,7 +3,7 @@
 ## Instalar Git en su última versión
 - [ ] Alfano, Nahuel
 - [ ] Amico, Federico
-- [ ] Bertocchi, Felipe
+- [X] Bertocchi, Felipe
 - [ ] Blanco, Eimy
 - [X] Cartalá, Paola
 - [ ] Ibañez, Radamés
@@ -14,7 +14,7 @@
 ## Creación de directorio para sincronizarlo con el directorio de Github
 - [ ] Alfano, Nahuel
 - [ ] Amico, Federico
-- [ ] Bertocchi, Felipe
+- [X] Bertocchi, Felipe
 - [ ] Blanco, Eimy
 - [X] Cartalá, Paola
 - [ ] Ibañez, Radamés
@@ -25,7 +25,7 @@
 ## Instalación de Visual Studio Code
 - [ ] Alfano, Nahuel
 - [ ] Amico, Federico
-- [ ] Bertocchi, Felipe
+- [X] Bertocchi, Felipe
 - [ ] Blanco, Eimy
 - [X] Cartalá, Paola
 - [ ] Ibañez, Radamés
@@ -45,7 +45,7 @@
 
 - [ ] Alfano, Nahuel
 - [ ] Amico, Federico
-- [ ] Bertocchi, Felipe
+- [X] Bertocchi, Felipe
 - [ ] Blanco, Eimy
 - [X] Cartalá, Paola
 - [ ] Ibañez, Radamés
@@ -64,7 +64,7 @@
 
 - [ ] Alfano, Nahuel
 - [ ] Amico, Federico
-- [ ] Bertocchi, Felipe
+- [X] Bertocchi, Felipe
 - [ ] Blanco, Eimy
 - [X] Cartalá, Paola
 - [ ] Ibañez, Radamés
@@ -79,7 +79,7 @@
 
 - [ ] Alfano, Nahuel
 - [ ] Amico, Federico
-- [ ] Bertocchi, Felipe
+- [X] Bertocchi, Felipe
 - [ ] Blanco, Eimy
 - [X] Cartalá, Paola
 - [ ] Ibañez, Radamés
@@ -90,7 +90,7 @@
 ## Sincronización de VS Code con cuenta de GitHub
 - [ ] Alfano, Nahuel
 - [ ] Amico, Federico
-- [ ] Bertocchi, Felipe
+- [X] Bertocchi, Felipe
 - [ ] Blanco, Eimy
 - [X] Cartalá, Paola
 - [ ] Ibañez, Radamés
@@ -101,7 +101,7 @@
 ## Instalación de NodeJS
 - [ ] Alfano, Nahuel
 - [ ] Amico, Federico
-- [ ] Bertocchi, Felipe
+- [X] Bertocchi, Felipe
 - [ ] Blanco, Eimy
 - [X] Cartalá, Paola
 - [ ] Ibañez, Radamés
@@ -112,7 +112,7 @@
 ## Instalación de ReactJS
 - [ ] Alfano, Nahuel
 - [ ] Amico, Federico
-- [ ] Bertocchi, Felipe
+- [X] Bertocchi, Felipe
 - [ ] Blanco, Eimy
 - [X] Cartalá, Paola
 - [ ] Ibañez, Radamés
@@ -123,7 +123,7 @@
 ## Instalación de Express
 - [ ] Alfano, Nahuel
 - [ ] Amico, Federico
-- [ ] Bertocchi, Felipe
+- [X] Bertocchi, Felipe
 - [ ] Blanco, Eimy
 - [X] Cartalá, Paola
 - [ ] Ibañez, Radamés
