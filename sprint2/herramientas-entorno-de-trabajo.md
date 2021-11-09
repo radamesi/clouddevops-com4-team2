@@ -19,7 +19,7 @@
 - [X] Cartalá, Paola
 - [ ] Ibañez, Radamés
 - [X] Metz, Miguel
-- [ ] Pizzuti, Romina
+- [X] Pizzuti, Romina
 - [X] Vera Sotelo, Mercedes
 
 ## Instalación de Visual Studio Code
@@ -106,7 +106,7 @@
 - [X] Cartalá, Paola
 - [ ] Ibañez, Radamés
 - [X] Metz, Miguel
-- [ ] Pizzuti, Romina
+- [X] Pizzuti, Romina
 - [ ] Vera Sotelo, Mercedes
 
 ## Instalación de ReactJS
@@ -117,7 +117,7 @@
 - [X] Cartalá, Paola
 - [ ] Ibañez, Radamés
 - [X] Metz, Miguel
-- [ ] Pizzuti, Romina
+- [X] Pizzuti, Romina
 - [ ] Vera Sotelo, Mercedes
 
 ## Instalación de Express
@@ -128,5 +128,5 @@
 - [X] Cartalá, Paola
 - [ ] Ibañez, Radamés
 - [X] Metz, Miguel
-- [ ] Pizzuti, Romina
+- [X] Pizzuti, Romina
 - [ ] Vera Sotelo, Mercedes
