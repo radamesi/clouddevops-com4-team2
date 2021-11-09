@@ -16,7 +16,7 @@
 - [ ] Amico, Federico
 - [ ] Bertocchi, Felipe
 - [ ] Blanco, Eimy
-- [ ] Cartalá, Paola
+- [X] Cartalá, Paola
 - [ ] Ibañez, Radamés
 - [X] Metz, Miguel
 - [ ] Pizzuti, Romina
@@ -47,7 +47,7 @@
 - [ ] Amico, Federico
 - [ ] Bertocchi, Felipe
 - [ ] Blanco, Eimy
-- [ ] Cartalá, Paola
+- [X] Cartalá, Paola
 - [ ] Ibañez, Radamés
 - [X] Metz, Miguel
 - [X] Pizzuti, Romina
@@ -66,7 +66,7 @@
 - [ ] Amico, Federico
 - [ ] Bertocchi, Felipe
 - [ ] Blanco, Eimy
-- [ ] Cartalá, Paola
+- [X] Cartalá, Paola
 - [ ] Ibañez, Radamés
 - [X] Metz, Miguel
 - [X] Pizzuti, Romina
@@ -81,7 +81,7 @@
 - [ ] Amico, Federico
 - [ ] Bertocchi, Felipe
 - [ ] Blanco, Eimy
-- [ ] Cartalá, Paola
+- [X] Cartalá, Paola
 - [ ] Ibañez, Radamés
 - [X] Metz, Miguel
 - [X] Pizzuti, Romina
@@ -125,7 +125,7 @@
 - [ ] Amico, Federico
 - [ ] Bertocchi, Felipe
 - [ ] Blanco, Eimy
-- [ ] Cartalá, Paola
+- [X] Cartalá, Paola
 - [ ] Ibañez, Radamés
 - [X] Metz, Miguel
 - [ ] Pizzuti, Romina
