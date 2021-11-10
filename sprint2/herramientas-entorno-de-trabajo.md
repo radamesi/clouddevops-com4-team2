@@ -4,7 +4,7 @@
 
 ![Versión de Git](https://github.com/radamesi/clouddevops-com4-team2/blob/rada/sprint2/img/git-version.png "Versión de Git")
 
-- [ ] Alfano, Nahuel
+- [X] Alfano, Nahuel
 - [ ] Amico, Federico
 - [X] Bertocchi, Felipe
 - [ ] Blanco, Eimy
@@ -18,7 +18,7 @@
 
 ![Directorio para sincronizar con GitHub](https://github.com/radamesi/clouddevops-com4-team2/blob/rada/sprint2/img/directorio.png "Directorio para sincronizar con GitHub")
 
-- [ ] Alfano, Nahuel
+- [X] Alfano, Nahuel
 - [ ] Amico, Federico
 - [X] Bertocchi, Felipe
 - [ ] Blanco, Eimy
@@ -32,7 +32,7 @@
 
 ![VSCode instalado](https://github.com/radamesi/clouddevops-com4-team2/blob/rada/sprint2/img/vs-code-version.png "VSCode instalado")
 
-- [ ] Alfano, Nahuel
+- [X] Alfano, Nahuel
 - [ ] Amico, Federico
 - [X] Bertocchi, Felipe
 - [ ] Blanco, Eimy
@@ -57,7 +57,7 @@
 
 ![Plugins HTML/CSS/JS](https://github.com/radamesi/clouddevops-com4-team2/blob/rada/sprint2/img/html-css-js-plugins.png "Plugins HTML/CSS/JS")
 
-- [ ] Alfano, Nahuel
+- [X] Alfano, Nahuel
 - [ ] Amico, Federico
 - [X] Bertocchi, Felipe
 - [ ] Blanco, Eimy
@@ -81,7 +81,7 @@
 
 ![Plugins Docker/Kubernetes](https://github.com/radamesi/clouddevops-com4-team2/blob/rada/sprint2/img/docker-kubernetes-plugins.png "Plugins Docker/Kubernetes")
 
-- [ ] Alfano, Nahuel
+- [X] Alfano, Nahuel
 - [ ] Amico, Federico
 - [X] Bertocchi, Felipe
 - [ ] Blanco, Eimy
@@ -101,7 +101,7 @@
 
 ![Plugins Terraform](https://github.com/radamesi/clouddevops-com4-team2/blob/rada/sprint2/img/terraform-plugins.png "Plugins Terraform")
 
-- [ ] Alfano, Nahuel
+- [X] Alfano, Nahuel
 - [ ] Amico, Federico
 - [X] Bertocchi, Felipe
 - [ ] Blanco, Eimy
@@ -115,7 +115,7 @@
 
 ![Sincronizar VS Code con GitHub](https://github.com/radamesi/clouddevops-com4-team2/blob/rada/sprint2/img/vs-code-github-sync.png "Sincronizar VS Code con GitHub")
 
-- [ ] Alfano, Nahuel
+- [X] Alfano, Nahuel
 - [ ] Amico, Federico
 - [X] Bertocchi, Felipe
 - [ ] Blanco, Eimy
@@ -129,7 +129,7 @@
 
 ![NodeJS instalado](https://github.com/radamesi/clouddevops-com4-team2/blob/rada/sprint2/img/node-js-version.png "NodeJS instalado")
 
-- [ ] Alfano, Nahuel
+- [X] Alfano, Nahuel
 - [ ] Amico, Federico
 - [X] Bertocchi, Felipe
 - [ ] Blanco, Eimy
@@ -143,7 +143,7 @@
 
 ![ReactJS instalado](https://github.com/radamesi/clouddevops-com4-team2/blob/rada/sprint2/img/react-js-version.png "ReactJS instalado")
 
-- [ ] Alfano, Nahuel
+- [X] Alfano, Nahuel
 - [ ] Amico, Federico
 - [X] Bertocchi, Felipe
 - [ ] Blanco, Eimy
@@ -157,7 +157,7 @@
 
 ![Express.js instalado](https://github.com/radamesi/clouddevops-com4-team2/blob/rada/sprint2/img/express-js-version.png "Express.js instalado")
 
-- [ ] Alfano, Nahuel
+- [X] Alfano, Nahuel
 - [ ] Amico, Federico
 - [X] Bertocchi, Felipe
 - [ ] Blanco, Eimy
