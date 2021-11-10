@@ -107,7 +107,7 @@
 - [ ] Ibañez, Radamés
 - [X] Metz, Miguel
 - [X] Pizzuti, Romina
-- [ ] Vera Sotelo, Mercedes
+- [X] Vera Sotelo, Mercedes
 
 ## Instalación de ReactJS
 - [ ] Alfano, Nahuel
@@ -118,7 +118,7 @@
 - [ ] Ibañez, Radamés
 - [X] Metz, Miguel
 - [X] Pizzuti, Romina
-- [ ] Vera Sotelo, Mercedes
+- [X] Vera Sotelo, Mercedes
 
 ## Instalación de Express
 - [ ] Alfano, Nahuel
@@ -129,4 +129,4 @@
 - [ ] Ibañez, Radamés
 - [X] Metz, Miguel
 - [X] Pizzuti, Romina
-- [ ] Vera Sotelo, Mercedes
+- [X] Vera Sotelo, Mercedes
