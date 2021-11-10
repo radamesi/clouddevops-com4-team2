@@ -5,7 +5,7 @@
 ![Versión de Git](https://github.com/radamesi/clouddevops-com4-team2/blob/main/sprint2/img/git-version.png "Versión de Git")
 
 - [X] Alfano, Nahuel
-- [ ] Amico, Federico
+- [X] Amico, Federico
 - [X] Bertocchi, Felipe
 - [X] Blanco, Eimy
 - [X] Cartalá, Paola
@@ -19,7 +19,7 @@
 ![Directorio para sincronizar con GitHub](https://github.com/radamesi/clouddevops-com4-team2/blob/main/sprint2/img/directorio.png "Directorio para sincronizar con GitHub")
 
 - [X] Alfano, Nahuel
-- [ ] Amico, Federico
+- [X] Amico, Federico
 - [X] Bertocchi, Felipe
 - [X] Blanco, Eimy
 - [X] Cartalá, Paola
@@ -33,7 +33,7 @@
 ![VSCode instalado](https://github.com/radamesi/clouddevops-com4-team2/blob/main/sprint2/img/vs-code-version.png "VSCode instalado")
 
 - [X] Alfano, Nahuel
-- [ ] Amico, Federico
+- [X] Amico, Federico
 - [X] Bertocchi, Felipe
 - [X] Blanco, Eimy
 - [X] Cartalá, Paola
@@ -58,7 +58,7 @@
 ![Plugins HTML/CSS/JS](https://github.com/radamesi/clouddevops-com4-team2/blob/main/sprint2/img/html-css-js-plugins.png "Plugins HTML/CSS/JS")
 
 - [X] Alfano, Nahuel
-- [ ] Amico, Federico
+- [X] Amico, Federico
 - [X] Bertocchi, Felipe
 - [X] Blanco, Eimy
 - [X] Cartalá, Paola
@@ -82,7 +82,7 @@
 ![Plugins Docker/Kubernetes](https://github.com/radamesi/clouddevops-com4-team2/blob/main/sprint2/img/docker-kubernetes-plugins.png "Plugins Docker/Kubernetes")
 
 - [X] Alfano, Nahuel
-- [ ] Amico, Federico
+- [X] Amico, Federico
 - [X] Bertocchi, Felipe
 - [X] Blanco, Eimy
 - [X] Cartalá, Paola
@@ -102,7 +102,7 @@
 ![Plugins Terraform](https://github.com/radamesi/clouddevops-com4-team2/blob/main/sprint2/img/terraform-plugins.png "Plugins Terraform")
 
 - [X] Alfano, Nahuel
-- [ ] Amico, Federico
+- [X] Amico, Federico
 - [X] Bertocchi, Felipe
 - [X] Blanco, Eimy
 - [X] Cartalá, Paola
@@ -116,7 +116,7 @@
 ![Sincronizar VS Code con GitHub](https://github.com/radamesi/clouddevops-com4-team2/blob/main/sprint2/img/vs-code-github-sync.png "Sincronizar VS Code con GitHub")
 
 - [X] Alfano, Nahuel
-- [ ] Amico, Federico
+- [X] Amico, Federico
 - [X] Bertocchi, Felipe
 - [X] Blanco, Eimy
 - [X] Cartalá, Paola
@@ -130,7 +130,7 @@
 ![NodeJS instalado](https://github.com/radamesi/clouddevops-com4-team2/blob/main/sprint2/img/node-js-version.png "NodeJS instalado")
 
 - [X] Alfano, Nahuel
-- [ ] Amico, Federico
+- [X] Amico, Federico
 - [X] Bertocchi, Felipe
 - [X] Blanco, Eimy
 - [X] Cartalá, Paola
@@ -144,7 +144,7 @@
 ![ReactJS instalado](https://github.com/radamesi/clouddevops-com4-team2/blob/main/sprint2/img/react-js-version.png "ReactJS instalado")
 
 - [X] Alfano, Nahuel
-- [ ] Amico, Federico
+- [X] Amico, Federico
 - [X] Bertocchi, Felipe
 - [X] Blanco, Eimy
 - [X] Cartalá, Paola
@@ -158,7 +158,7 @@
 ![Express.js instalado](https://github.com/radamesi/clouddevops-com4-team2/blob/main/sprint2/img/express-js-version.png "Express.js instalado")
 
 - [X] Alfano, Nahuel
-- [ ] Amico, Federico
+- [X] Amico, Federico
 - [X] Bertocchi, Felipe
 - [X] Blanco, Eimy
 - [X] Cartalá, Paola
