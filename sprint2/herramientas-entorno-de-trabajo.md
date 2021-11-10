@@ -2,7 +2,7 @@
 
 ## Instalar Git en su última versión
 - [ ] Alfano, Nahuel
-- [ ] Amico, Federico
+- [X] Amico, Federico
 - [ ] Bertocchi, Felipe
 - [ ] Blanco, Eimy
 - [X] Cartalá, Paola
@@ -13,7 +13,7 @@
 
 ## Creación de directorio para sincronizarlo con el directorio de Github
 - [ ] Alfano, Nahuel
-- [ ] Amico, Federico
+- [X] Amico, Federico
 - [ ] Bertocchi, Felipe
 - [ ] Blanco, Eimy
 - [ ] Cartalá, Paola
@@ -24,7 +24,7 @@
 
 ## Instalación de Visual Studio Code
 - [ ] Alfano, Nahuel
-- [ ] Amico, Federico
+- [X] Amico, Federico
 - [ ] Bertocchi, Felipe
 - [ ] Blanco, Eimy
 - [X] Cartalá, Paola
@@ -44,7 +44,7 @@
 - jshint
 
 - [ ] Alfano, Nahuel
-- [ ] Amico, Federico
+- [X] Amico, Federico
 - [ ] Bertocchi, Felipe
 - [ ] Blanco, Eimy
 - [ ] Cartalá, Paola
@@ -63,7 +63,7 @@
 - YAML
 
 - [ ] Alfano, Nahuel
-- [ ] Amico, Federico
+- [X] Amico, Federico
 - [ ] Bertocchi, Felipe
 - [ ] Blanco, Eimy
 - [ ] Cartalá, Paola
@@ -78,7 +78,7 @@
 - Terraform Advanced Syntax Highlighting
 
 - [ ] Alfano, Nahuel
-- [ ] Amico, Federico
+- [X] Amico, Federico
 - [ ] Bertocchi, Felipe
 - [ ] Blanco, Eimy
 - [ ] Cartalá, Paola
@@ -89,7 +89,7 @@
 
 ## Sincronización de VS Code con cuenta de GitHub
 - [ ] Alfano, Nahuel
-- [ ] Amico, Federico
+- [X] Amico, Federico
 - [ ] Bertocchi, Felipe
 - [ ] Blanco, Eimy
 - [X] Cartalá, Paola
@@ -100,7 +100,7 @@
 
 ## Instalación de NodeJS
 - [ ] Alfano, Nahuel
-- [ ] Amico, Federico
+- [X] Amico, Federico
 - [ ] Bertocchi, Felipe
 - [ ] Blanco, Eimy
 - [X] Cartalá, Paola
@@ -111,7 +111,7 @@
 
 ## Instalación de ReactJS
 - [ ] Alfano, Nahuel
-- [ ] Amico, Federico
+- [X] Amico, Federico
 - [ ] Bertocchi, Felipe
 - [ ] Blanco, Eimy
 - [X] Cartalá, Paola
@@ -122,7 +122,7 @@
 
 ## Instalación de Express
 - [ ] Alfano, Nahuel
-- [ ] Amico, Federico
+- [X] Amico, Federico
 - [ ] Bertocchi, Felipe
 - [ ] Blanco, Eimy
 - [ ] Cartalá, Paola
