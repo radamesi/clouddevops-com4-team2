@@ -6,7 +6,7 @@
 - [X] Bertocchi, Felipe
 - [ ] Blanco, Eimy
 - [X] Cartalá, Paola
-- [ ] Ibañez, Radamés
+- [X] Ibañez, Radamés
 - [X] Metz, Miguel
 - [X] Pizzuti, Romina
 - [X] Vera Sotelo, Mercedes
@@ -17,7 +17,7 @@
 - [X] Bertocchi, Felipe
 - [ ] Blanco, Eimy
 - [X] Cartalá, Paola
-- [ ] Ibañez, Radamés
+- [X] Ibañez, Radamés
 - [X] Metz, Miguel
 - [X] Pizzuti, Romina
 - [X] Vera Sotelo, Mercedes
@@ -28,7 +28,7 @@
 - [X] Bertocchi, Felipe
 - [ ] Blanco, Eimy
 - [X] Cartalá, Paola
-- [ ] Ibañez, Radamés
+- [X] Ibañez, Radamés
 - [X] Metz, Miguel
 - [X] Pizzuti, Romina
 - [X] Vera Sotelo, Mercedes
@@ -48,7 +48,7 @@
 - [X] Bertocchi, Felipe
 - [ ] Blanco, Eimy
 - [X] Cartalá, Paola
-- [ ] Ibañez, Radamés
+- [X] Ibañez, Radamés
 - [X] Metz, Miguel
 - [X] Pizzuti, Romina
 - [X] Vera Sotelo, Mercedes
@@ -67,7 +67,7 @@
 - [X] Bertocchi, Felipe
 - [ ] Blanco, Eimy
 - [X] Cartalá, Paola
-- [ ] Ibañez, Radamés
+- [X] Ibañez, Radamés
 - [X] Metz, Miguel
 - [X] Pizzuti, Romina
 - [X] Vera Sotelo, Mercedes
@@ -82,7 +82,7 @@
 - [X] Bertocchi, Felipe
 - [ ] Blanco, Eimy
 - [X] Cartalá, Paola
-- [ ] Ibañez, Radamés
+- [X] Ibañez, Radamés
 - [X] Metz, Miguel
 - [X] Pizzuti, Romina
 - [X] Vera Sotelo, Mercedes
@@ -93,7 +93,7 @@
 - [X] Bertocchi, Felipe
 - [ ] Blanco, Eimy
 - [X] Cartalá, Paola
-- [ ] Ibañez, Radamés
+- [X] Ibañez, Radamés
 - [X] Metz, Miguel
 - [X] Pizzuti, Romina
 - [X] Vera Sotelo, Mercedes
@@ -104,7 +104,7 @@
 - [X] Bertocchi, Felipe
 - [ ] Blanco, Eimy
 - [X] Cartalá, Paola
-- [ ] Ibañez, Radamés
+- [X] Ibañez, Radamés
 - [X] Metz, Miguel
 - [X] Pizzuti, Romina
 - [X] Vera Sotelo, Mercedes
@@ -115,7 +115,7 @@
 - [X] Bertocchi, Felipe
 - [ ] Blanco, Eimy
 - [X] Cartalá, Paola
-- [ ] Ibañez, Radamés
+- [X] Ibañez, Radamés
 - [X] Metz, Miguel
 - [X] Pizzuti, Romina
 - [X] Vera Sotelo, Mercedes
@@ -126,7 +126,7 @@
 - [X] Bertocchi, Felipe
 - [ ] Blanco, Eimy
 - [X] Cartalá, Paola
-- [ ] Ibañez, Radamés
+- [X] Ibañez, Radamés
 - [X] Metz, Miguel
 - [X] Pizzuti, Romina
 - [X] Vera Sotelo, Mercedes
