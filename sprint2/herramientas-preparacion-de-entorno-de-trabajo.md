@@ -2,7 +2,7 @@
 
 ## Instalar Git en su última versión
 
-![Versión de Git](https://github.com/radamesi/clouddevops-com4-team2/blob/rada/sprint2/img/git-version.png "Versión de Git")
+![Versión de Git](https://github.com/radamesi/clouddevops-com4-team2/blob/main/sprint2/img/git-version.png "Versión de Git")
 
 - [X] Alfano, Nahuel
 - [ ] Amico, Federico
@@ -16,7 +16,7 @@
 
 ## Creación de directorio para sincronizarlo con el directorio de GitHub
 
-![Directorio para sincronizar con GitHub](https://github.com/radamesi/clouddevops-com4-team2/blob/rada/sprint2/img/directorio.png "Directorio para sincronizar con GitHub")
+![Directorio para sincronizar con GitHub](https://github.com/radamesi/clouddevops-com4-team2/blob/main/sprint2/img/directorio.png "Directorio para sincronizar con GitHub")
 
 - [X] Alfano, Nahuel
 - [ ] Amico, Federico
@@ -30,7 +30,7 @@
 
 ## Instalación de Visual Studio Code
 
-![VSCode instalado](https://github.com/radamesi/clouddevops-com4-team2/blob/rada/sprint2/img/vs-code-version.png "VSCode instalado")
+![VSCode instalado](https://github.com/radamesi/clouddevops-com4-team2/blob/main/sprint2/img/vs-code-version.png "VSCode instalado")
 
 - [X] Alfano, Nahuel
 - [ ] Amico, Federico
@@ -55,7 +55,7 @@
 | JS Refactor :: JS CodeFormer |
 | Tabnine - Code Faster with the All-Language AI Assistant... |
 
-![Plugins HTML/CSS/JS](https://github.com/radamesi/clouddevops-com4-team2/blob/rada/sprint2/img/html-css-js-plugins.png "Plugins HTML/CSS/JS")
+![Plugins HTML/CSS/JS](https://github.com/radamesi/clouddevops-com4-team2/blob/main/sprint2/img/html-css-js-plugins.png "Plugins HTML/CSS/JS")
 
 - [X] Alfano, Nahuel
 - [ ] Amico, Federico
@@ -79,7 +79,7 @@
 | Kubernetes Support |
 | YAML |
 
-![Plugins Docker/Kubernetes](https://github.com/radamesi/clouddevops-com4-team2/blob/rada/sprint2/img/docker-kubernetes-plugins.png "Plugins Docker/Kubernetes")
+![Plugins Docker/Kubernetes](https://github.com/radamesi/clouddevops-com4-team2/blob/main/sprint2/img/docker-kubernetes-plugins.png "Plugins Docker/Kubernetes")
 
 - [X] Alfano, Nahuel
 - [ ] Amico, Federico
@@ -99,7 +99,7 @@
 | Terraform |
 | Terraform Advanced Syntax Highlighting |
 
-![Plugins Terraform](https://github.com/radamesi/clouddevops-com4-team2/blob/rada/sprint2/img/terraform-plugins.png "Plugins Terraform")
+![Plugins Terraform](https://github.com/radamesi/clouddevops-com4-team2/blob/main/sprint2/img/terraform-plugins.png "Plugins Terraform")
 
 - [X] Alfano, Nahuel
 - [ ] Amico, Federico
@@ -113,7 +113,7 @@
 
 ## Sincronización de VS Code con cuenta de GitHub
 
-![Sincronizar VS Code con GitHub](https://github.com/radamesi/clouddevops-com4-team2/blob/rada/sprint2/img/vs-code-github-sync.png "Sincronizar VS Code con GitHub")
+![Sincronizar VS Code con GitHub](https://github.com/radamesi/clouddevops-com4-team2/blob/main/sprint2/img/vs-code-github-sync.png "Sincronizar VS Code con GitHub")
 
 - [X] Alfano, Nahuel
 - [ ] Amico, Federico
@@ -127,7 +127,7 @@
 
 ## Instalación de NodeJS
 
-![NodeJS instalado](https://github.com/radamesi/clouddevops-com4-team2/blob/rada/sprint2/img/node-js-version.png "NodeJS instalado")
+![NodeJS instalado](https://github.com/radamesi/clouddevops-com4-team2/blob/main/sprint2/img/node-js-version.png "NodeJS instalado")
 
 - [X] Alfano, Nahuel
 - [ ] Amico, Federico
@@ -141,7 +141,7 @@
 
 ## Instalación de ReactJS
 
-![ReactJS instalado](https://github.com/radamesi/clouddevops-com4-team2/blob/rada/sprint2/img/react-js-version.png "ReactJS instalado")
+![ReactJS instalado](https://github.com/radamesi/clouddevops-com4-team2/blob/main/sprint2/img/react-js-version.png "ReactJS instalado")
 
 - [X] Alfano, Nahuel
 - [ ] Amico, Federico
@@ -155,7 +155,7 @@
 
 ## Instalación de Express.js
 
-![Express.js instalado](https://github.com/radamesi/clouddevops-com4-team2/blob/rada/sprint2/img/express-js-version.png "Express.js instalado")
+![Express.js instalado](https://github.com/radamesi/clouddevops-com4-team2/blob/main/sprint2/img/express-js-version.png "Express.js instalado")
 
 - [X] Alfano, Nahuel
 - [ ] Amico, Federico
