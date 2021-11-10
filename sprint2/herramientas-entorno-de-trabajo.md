@@ -44,8 +44,6 @@
 
 ## Instalación de plugins HTML/CSS/JS
 
-![Plugins HTML/CSS/JS](https://github.com/radamesi/clouddevops-com4-team2/blob/rada/sprint2/img/html-css-js-plugins.png "Plugins HTML/CSS/JS")
-
 | Plugin      |
 | ----------- |
 | ES7 React/Redux/GraphQL/React-Native snippets |
@@ -53,9 +51,11 @@
 | HTML CSS Support   |
 | HTML Snippets      |
 | IntelliSense for CSS class names in HTML |
-| Tabnine - Code Faster with the All-Language AI Assistant... |
 | jshint |
 | JS Refactor :: JS CodeFormer |
+| Tabnine - Code Faster with the All-Language AI Assistant... |
+
+![Plugins HTML/CSS/JS](https://github.com/radamesi/clouddevops-com4-team2/blob/rada/sprint2/img/html-css-js-plugins.png "Plugins HTML/CSS/JS")
 
 - [ ] Alfano, Nahuel
 - [ ] Amico, Federico
@@ -69,8 +69,6 @@
 
 ## Instalación de plugins Docker/Kubernetes
 
-![Plugins Docker/Kubernetes](https://github.com/radamesi/clouddevops-com4-team2/blob/rada/sprint2/img/docker-kubernetes-plugins.png "Plugins Docker/Kubernetes")
-
 | Plugin      |
 | ----------- |
 | Docker |
@@ -80,6 +78,8 @@
 | Kubernetes |
 | Kubernetes Support |
 | YAML |
+
+![Plugins Docker/Kubernetes](https://github.com/radamesi/clouddevops-com4-team2/blob/rada/sprint2/img/docker-kubernetes-plugins.png "Plugins Docker/Kubernetes")
 
 - [ ] Alfano, Nahuel
 - [ ] Amico, Federico
@@ -93,13 +93,13 @@
 
 ## Instalación de plugins Terraform
 
-![Plugins Terraform](https://github.com/radamesi/clouddevops-com4-team2/blob/rada/sprint2/img/terraform-plugins.png "Plugins Terraform")
-
 | Plugin |
 | ----------- |
-| Terraform |
 | HashiCorp Terraform |
+| Terraform |
 | Terraform Advanced Syntax Highlighting |
+
+![Plugins Terraform](https://github.com/radamesi/clouddevops-com4-team2/blob/rada/sprint2/img/terraform-plugins.png "Plugins Terraform")
 
 - [ ] Alfano, Nahuel
 - [ ] Amico, Federico
