@@ -7,7 +7,7 @@
 - [X] Alfano, Nahuel
 - [ ] Amico, Federico
 - [X] Bertocchi, Felipe
-- [ ] Blanco, Eimy
+- [X] Blanco, Eimy
 - [X] Cartalá, Paola
 - [X] Ibañez, Radamés
 - [X] Metz, Miguel
@@ -21,7 +21,7 @@
 - [X] Alfano, Nahuel
 - [ ] Amico, Federico
 - [X] Bertocchi, Felipe
-- [ ] Blanco, Eimy
+- [X] Blanco, Eimy
 - [X] Cartalá, Paola
 - [X] Ibañez, Radamés
 - [X] Metz, Miguel
@@ -35,7 +35,7 @@
 - [X] Alfano, Nahuel
 - [ ] Amico, Federico
 - [X] Bertocchi, Felipe
-- [ ] Blanco, Eimy
+- [X] Blanco, Eimy
 - [X] Cartalá, Paola
 - [X] Ibañez, Radamés
 - [X] Metz, Miguel
@@ -60,7 +60,7 @@
 - [X] Alfano, Nahuel
 - [ ] Amico, Federico
 - [X] Bertocchi, Felipe
-- [ ] Blanco, Eimy
+- [X] Blanco, Eimy
 - [X] Cartalá, Paola
 - [X] Ibañez, Radamés
 - [X] Metz, Miguel
@@ -84,7 +84,7 @@
 - [X] Alfano, Nahuel
 - [ ] Amico, Federico
 - [X] Bertocchi, Felipe
-- [ ] Blanco, Eimy
+- [X] Blanco, Eimy
 - [X] Cartalá, Paola
 - [X] Ibañez, Radamés
 - [X] Metz, Miguel
@@ -104,7 +104,7 @@
 - [X] Alfano, Nahuel
 - [ ] Amico, Federico
 - [X] Bertocchi, Felipe
-- [ ] Blanco, Eimy
+- [X] Blanco, Eimy
 - [X] Cartalá, Paola
 - [X] Ibañez, Radamés
 - [X] Metz, Miguel
@@ -118,7 +118,7 @@
 - [X] Alfano, Nahuel
 - [ ] Amico, Federico
 - [X] Bertocchi, Felipe
-- [ ] Blanco, Eimy
+- [X] Blanco, Eimy
 - [X] Cartalá, Paola
 - [X] Ibañez, Radamés
 - [X] Metz, Miguel
@@ -132,7 +132,7 @@
 - [X] Alfano, Nahuel
 - [ ] Amico, Federico
 - [X] Bertocchi, Felipe
-- [ ] Blanco, Eimy
+- [X] Blanco, Eimy
 - [X] Cartalá, Paola
 - [X] Ibañez, Radamés
 - [X] Metz, Miguel
@@ -146,7 +146,7 @@
 - [X] Alfano, Nahuel
 - [ ] Amico, Federico
 - [X] Bertocchi, Felipe
-- [ ] Blanco, Eimy
+- [X] Blanco, Eimy
 - [X] Cartalá, Paola
 - [X] Ibañez, Radamés
 - [X] Metz, Miguel
@@ -160,7 +160,7 @@
 - [X] Alfano, Nahuel
 - [ ] Amico, Federico
 - [X] Bertocchi, Felipe
-- [ ] Blanco, Eimy
+- [X] Blanco, Eimy
 - [X] Cartalá, Paola
 - [X] Ibañez, Radamés
 - [X] Metz, Miguel
