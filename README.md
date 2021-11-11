@@ -53,8 +53,8 @@ https://www.linkedin.com/in/mercedes-vera-sotelo-696b3048
 Estudiante  
 Developer  
 
-**Nahuel Alejandro Alfano**
-nahuelalfano96@gmail.com
+**Nahuel Alejandro Alfano**  
+nahuelalfano96@gmail.com  
 https://www.linkedin.com/in/nahuel-alfano/
-Estudiante
-Developer
+Estudiante  
+Developer  
