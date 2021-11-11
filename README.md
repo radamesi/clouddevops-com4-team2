@@ -55,6 +55,6 @@ Developer
 
 **Nahuel Alejandro Alfano**  
 nahuelalfano96@gmail.com  
-https://www.linkedin.com/in/nahuel-alfano/
+https://www.linkedin.com/in/nahuel-alfano/                                                                                                    
 Estudiante  
 Developer  
