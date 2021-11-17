@@ -1,0 +1,59 @@
+PS D:\radam\clouddevops\my-app> npm start
+Compiled successfully!
+
+You can now view my-app in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://192.168.0.235:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+¿Desea terminar el trabajo por lotes (S/N)? S
+PS D:\radam\clouddevops\my-app> npm run build
+
+> my-app@0.1.0 build 
+> react-scripts build
+
+Creating an optimized production build...
+Compiled successfully.
+
+File sizes after gzip:
+
+  1.62 KB   build\static\js\3.ff0311e9.chunk.js
+  1.17 KB   build\static\js\runtime-main.1c420381.js
+  708 B     build\static\js\main.d46b61b6.chunk.js
+  531 B     build\static\css\main.8c8b27cf.chunk.css
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+  npm install -g serve
+  serve -s build
+
+Find out more about deployment here:
+
+  https://cra.link/deployment
+
+PS D:\radam\clouddevops\my-app> npm install -g serve
+
+added 93 packages, and audited 94 packages in 5s
+
+10 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS D:\radam\clouddevops\my-app> serve -s build
+
+   ┌───────────────────────────────────────────────────┐
+   │                                                   │
+   │   Serving!                                        │
+   │                                                   │
+   │   - Local:            http://localhost:3000       │
+   │   - On Your Network:  http://192.168.0.235:3000   │
+   │                                                   │
+   │   Copied local address to clipboard!              │
+   │                                                   │
+   └───────────────────────────────────────────────────┘
