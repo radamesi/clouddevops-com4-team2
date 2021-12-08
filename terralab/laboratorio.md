@@ -5,3 +5,7 @@ En este laboratorio aprendimos a usar Terraform para crear instancias de máquin
 La fuente que se utilizó para este laboratorio es el documento de Word que adjuntamos.
 
 Hay más información en https://github.com/atSistemas/terraform-aws-demo.
+
+
+
+![Instancias AWS creadas con terraform](https://github.com/radamesi/clouddevops-com4-team2/blob/main/terralab/Autoscaling%20instacias%20aws%20terraform.jpg "Instancias AWS creadas con terraform")
